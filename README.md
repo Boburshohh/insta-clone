@@ -6,25 +6,7 @@ This project is a clone of the [Instagram UI](https://instagram.com). I made it 
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://leocosta1.github.io/instagram-clone/)**
 
-## 🤓 Improved Skills
-
-- Layout (Flexbox);
-- Positioning;
-- Semantic HTML;
-- Responsiveness (Media Queries, Relative Lengths);
-- Light/Dark Theme;
-- SVG Usage;
-- BEM Methodology;
-- Scroll Snapping;
-- Events;
-- LocalStorage;
-- Intersection Observer;
-
-## ✅ ToDo
-
-- [ ] Refactor CSS (Maybe add SASS).
 
 ## ⚙ Dev Setup (VS Code)
 
@@ -34,8 +16,4 @@ The latest update includes some nice new features, such as the gradient border a
 4. Right click **index.html** > ``Open with Live Server``.
 5. Open the localhost address in your favourite browser.
 
-## ℹ Infos
 
-Made by Leonardo Costa 🙂
-
-Distributed under the MIT License. See ``LICENSE`` for more information.
